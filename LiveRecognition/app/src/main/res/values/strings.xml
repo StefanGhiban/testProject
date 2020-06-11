@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PayByFace</string>
+    <string name="picture_button">Authenticate</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="threshold_face">Face threshold:</string>
+    <string name="threshold_distance">Distance threshold:</string>
+    <string name="maximum_images">Maximum number of images:</string>
+    <string name="clear_button">Clear User Registration</string>
+    <string name="flip">Flip</string>
+    <string name="menu_title">PayByFace Demo App</string>
+    <string name="loading_title">Authenticating</string>
+    <string name="pay_title">Processing</string>
+    <string name="loading_message">Please wait...</string>
+    <string name="auth_overlay">PayByFace Authentication Overlay</string>
+    <string name="transaction_completed_successfully">TRANSACTION COMPLETED SUCCESSFULLY</string>
+    <string name="lockpattern_change_lock_pattern_label">CHANGE PIN</string>
+</resources>

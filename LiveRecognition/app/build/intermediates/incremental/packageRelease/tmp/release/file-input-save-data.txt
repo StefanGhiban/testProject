@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sun Feb 02 15:56:31 EET 2020
+1.base=/Users/homecomputer/paybyface/android-app-nexgo/LuxandAndroidStudio/LiveRecognition/app/build/intermediates/transforms/stripDebugSymbol/release/0
+2.path=lib/arm64-v8a/libfsdk.so
+0.baseType=DIRECTORY
+2.base=/Users/homecomputer/paybyface/android-app-nexgo/LuxandAndroidStudio/LiveRecognition/app/build/intermediates/transforms/stripDebugSymbol/release/0
+2.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+count=3
+1.set=NATIVE_RESOURCE
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/homecomputer/paybyface/android-app-nexgo/LuxandAndroidStudio/LiveRecognition/app/build/intermediates/transforms/dexMerger/release/0
+2.baseType=DIRECTORY
+1.path=lib/armeabi-v7a/libfsdk.so
